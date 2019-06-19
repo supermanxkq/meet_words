@@ -12,7 +12,7 @@ from PIL import Image, ImageDraw, ImageFont
 import tkinter as tk
 import re
 
-# 策克口岸经济开发区,食品领域扫黑除恶专项斗争,暨食品安全知识宣讲
+# 策是非颠倒沙发的方法,阿斯顿飞的撒,阿斯顿发送到发暗示法安德森
 
 
 class Windows(tk.Frame):
