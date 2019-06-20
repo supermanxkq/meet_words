@@ -59,7 +59,7 @@ class Windows(tk.Frame):
     def new_image(self, width, height, text='default', color="#ea0909", show_image=False):
         new_img = Image.new('RGBA', (int(width), int(height)), color)
         self.draw_image(new_img, text, show_image)
-        new_img.save(r'%s_%s_%s.png' % (width, height, text))
+        new_img.save(r'/Users/xukaiqiang/Desktop/%s_%s_%s.png' % (width, height, text))
         del new_img
 
     #生成会标
@@ -69,3 +69,5 @@ class Windows(tk.Frame):
 
 # 实例化对象
 new_window = Windows()
+
+# 测试 中华人民共和国，第十三届全国代表大会，暨全球贸易交流博览会宣讲

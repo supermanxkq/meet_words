@@ -1,3 +1,0 @@
-([('meet_words',
-   '/Users/xukaiqiang/PycharmProjects/meet_words/dist/meet_words',
-   'EXECUTABLE')],)
